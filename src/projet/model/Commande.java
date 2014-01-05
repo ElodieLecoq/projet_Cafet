@@ -3,7 +3,7 @@ package projet.model;
 public class Commande {
 	
 	public enum BoissonType {
-		cocacola, eau, jusdefruits;
+		cocacola, eau, jusdefruits, biere;
 	}
 	
 	public enum FormuleType {
