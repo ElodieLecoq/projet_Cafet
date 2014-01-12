@@ -67,7 +67,7 @@ public class Dessert extends CafetPanel {
 
 	@Override
 	String getComponentId() {
-		return "Select";
+		return "Dessert";
 	}
 
 	private class DessertChange implements ActionListener {
